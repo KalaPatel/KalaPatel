@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=30&duration=3000&pause=3000&color=0EB68D&center=false&vCenter=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chiara+Nicoletti;I'm+a+junior+Front+End+Developer+from+Sicily;Nice+to+meet+you!+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=30&duration=3000&pause=3000&color=0EB68D&center=false&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chiara+Nicoletti;I'm+a+junior+Front+End+Developer+from+Sicily;Nice+to+meet+you!+%F0%9F%98%8A" alt="Typing SVG" /></a>
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Cat writing code gif" width="200px"/>
 # 💫 About Me:
 🔭 I’m currently working on improving my Front End skills<br>👯 I’m looking to collaborate on news and creatives projects<br>🌱 I’m currently learning the power of NEXT.js 💪<br>👨‍💻 All of my projects are available at https://vercel.com/kalapatel<br>
