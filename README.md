@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=30&duration=3000&pause=3000&color=0EB68D&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chiara+Nicoletti;I'm+a+junior+Front+End+Developer+from+Sicily;Nice+to+meet+you!+%F0%9F%98%8A" alt="Typing SVG" /></a>
-
+<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 # 💫 About Me:
 🔭 I’m currently working on improving my Front End skills<br>👯 I’m looking to collaborate on news and creatives projects<br>🌱 I’m currently learning the power of NEXT.js 💪<br>👨‍💻 All of my projects are available at https://vercel.com/kalapatel<br>
 📫 How to reach me chiara.nicoletti.1298@gmail.com<br>⚡ Fun fact: one of my historical inspiration is Florence Foster Jenkins, because even if she wasn't the best singer, she kept singing and following her passion without caring about what other people criticism.<br>"People may say I can't sing, but no one can ever say I didn't sing". Florence Foster Jenkins <br>
