@@ -16,5 +16,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KalaPatel&theme=vue-dark&hide_border=false)
 
 ### 😂 Random Dev Meme
-<img  margin="0 auto" src="https://rm.up.railway.app/" width="312px"/>
+<img diplay="flex" justify-self="center" src="https://rm.up.railway.app/" width="312px"/>
 
