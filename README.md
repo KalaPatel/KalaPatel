@@ -15,6 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=KalaPatel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KalaPatel&theme=vue-dark&hide_border=false)
 
-### 😂 Random Dev Meme
-<img diplay="flex" justify-self="center" src="https://rm.up.railway.app/" width="312px"/>
+### 😂 Before you go, take this meme as a gift!
+<img src="https://rm.up.railway.app/" width="312px"/>
 
