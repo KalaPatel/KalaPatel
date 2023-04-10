@@ -5,7 +5,7 @@
 <br>
 
 ## 💫 About Me: <br>
-🔭 I'm currently studying at the bootcamp Edgemony to improve my front end skills<br>👯 I’m looking to collaborate on news and creatives projects<br>🌱 I’m currently learning the power of NEXT.js 💪<br>👨‍💻 All of my projects are available at https://vercel.com/kalapatel<br>
+🔭 I'm currently studying at the bootcamp Edgemony to improve my front end coding skills<br>👯 I’m looking to collaborate on news and creatives projects<br>🌱 I’m currently learning the power of NEXT.js 💪<br>👨‍💻 All of my projects are available at https://vercel.com/kalapatel<br>
 📫 How to reach me chiara.nicoletti.1298@gmail.com<br>⚡ Fun fact: one of my historical inspiration is Florence Foster Jenkins, because even if she wasn't the best singer, she kept singing and following her passion without caring about what other people criticism.<br>"People may say I can't sing, but no one can ever say I didn't sing". Florence Foster Jenkins <br>
 
 
