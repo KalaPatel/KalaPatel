@@ -20,7 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KalaPatel&theme=vue-dark&hide_border=false)
 
 
-### 😂 Before you go, take this meme as a gift!
+<h3 align="center">😂 Before you go, take this meme as a gift!</h3>
 <p align="center">
 <img src="https://rm.up.railway.app/" width="312px"/>
   </p>
