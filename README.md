@@ -3,7 +3,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on improving my Front End skills<br>👯 I’m looking to collaborate on news and creatives projects<br>🌱 I’m currently learning the power of NEXT.js 💪<br>⚡ Fun fact: one of my historical inspiration is Florence Foster Jenkins, because even if she wasn't the best singer, she kept singing and following her passion without caring about what other people criticism.<br>"People may say I can't sing, but no one can ever say I didn't sing". Florence Foster Jenkins <br>
+🔭 I’m currently working on improving my Front End skills<br>👯 I’m looking to collaborate on news and creatives projects<br>🌱 I’m currently learning the power of NEXT.js 💪<br>👨‍💻 All of my projects are available at https://vercel.com/kalapatel<br>
+📫 How to reach me chiara.nicoletti.1298@gmail.com<br>⚡ Fun fact: one of my historical inspiration is Florence Foster Jenkins, because even if she wasn't the best singer, she kept singing and following her passion without caring about what other people criticism.<br>"People may say I can't sing, but no one can ever say I didn't sing". Florence Foster Jenkins <br>
 
 
 ## 🌐 Socials:
@@ -17,7 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalaPatel&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="312px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=KalaPatel&icon=0&color=0)](https://visitcount.itsvg.in)
