@@ -2,7 +2,8 @@
 <p align="center">
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Cat writing code gif" width="200px"/> </p> 
 <br>
-#💫 About Me: <br>
+
+## 💫 About Me: <br>
 🔭 I’m currently working on improving my Front End skills<br>👯 I’m looking to collaborate on news and creatives projects<br>🌱 I’m currently learning the power of NEXT.js 💪<br>👨‍💻 All of my projects are available at https://vercel.com/kalapatel<br>
 📫 How to reach me chiara.nicoletti.1298@gmail.com<br>⚡ Fun fact: one of my historical inspiration is Florence Foster Jenkins, because even if she wasn't the best singer, she kept singing and following her passion without caring about what other people criticism.<br>"People may say I can't sing, but no one can ever say I didn't sing". Florence Foster Jenkins <br>
 
